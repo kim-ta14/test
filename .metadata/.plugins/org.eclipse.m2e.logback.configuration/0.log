@@ -16,3 +16,8 @@
 2019-02-27 10:48:26,115 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
 2019-02-27 14:33:48,989 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 2019-03-05 10:14:22,291 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-03-06 09:39:50,748 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @648063ms
+2019-03-06 09:39:51,071 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2019-03-06 09:39:51,149 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1cd3ec2d{/wse,null,AVAILABLE}
+2019-03-06 09:39:51,255 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@786ce57e{HTTP/1.1}{0.0.0.0:49363}
+2019-03-06 09:39:51,256 [main] INFO  org.eclipse.jetty.server.Server - Started @648581ms

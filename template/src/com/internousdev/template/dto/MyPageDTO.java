@@ -24,6 +24,11 @@ public class MyPageDTO {
 	public void setTotalCount(String totalCount) {
 		this.totalCount = totalCount;
 	}
-	public String
+	public String getPayment() {
+		return this.payment;
+	}
+	public void setPayment(String payment) {
+		this.payment = payment;
+	}
 
 }
