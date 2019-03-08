@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DBConnector {
 
 	private static String driverName ="com.mysql.jdbc.Driver";
-	private static String url = "jdbc:mysql://localhost:8889/ecsite";
+	private static String url = "jdbc:mysql://localhost:3306/ecsite";
 	private static String user = "root";
 	private static String password = "root";
 
